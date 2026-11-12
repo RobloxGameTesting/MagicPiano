@@ -1,0 +1,5 @@
+return {
+	SYNC_INTERVAL = 0.05,
+	OFFSET_Y = 0.4363323129985824,
+	BODY_ORIENTATION_ATTRIBUTE = "BodyOrientationAngles"
+}

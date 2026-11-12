@@ -1,0 +1,1 @@
+return { onChatAnimationPlayed = Instance.new("BindableEvent") }
